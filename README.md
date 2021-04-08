@@ -1,7 +1,7 @@
 This project is my Bachelor Thesis for USTH. 
 
-Topic name: Development Data Lake APIs and Dashboard. 
+Topic name: Hateful memes classification. 
 
-Supervisor: Dr. TRAN Giang Son, USTH ICT Lab.
+Supervisor: Dr. TRAN Hoang Tung, USTH ICT Lab.
 
 Template link: [Overleaf](https://www.overleaf.com/latex/templates/yachay-tech-university-undergraduate-thesis-template/ncwznrwcnksp)
